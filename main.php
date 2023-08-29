@@ -25,7 +25,7 @@ $session_id=$_POST['name'];
                   NORTHER BUKIDNON STATE COLLEGE 
           </h1>
               <h2>
-                   ALUMNI TRACKING SYSTEM
+                   Beacon - ALUMNI TRACKING SYSTEM
               </h2>
         </div>
       </div>

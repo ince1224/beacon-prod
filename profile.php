@@ -69,7 +69,7 @@ if(isset($_SESSION['status']) && $_SESSION['status'] !='')
                         <span aria-hidden="true">×</span>
                     </button>
                 </div>
-                <div class="modal-body">Select "Log" below if you are ready to end your current session.</div>
+                <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
                 <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">cancel</button>
                     <a class="btn btn-primary" href="index.php">Logout</a>
